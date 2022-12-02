@@ -1,0 +1,7 @@
+Creating token 61NySYeAAywaEVHo3PpRrxofQaBWJKs1hNPynxbZKDSV
+
+Address:  61NySYeAAywaEVHo3PpRrxofQaBWJKs1hNPynxbZKDSV
+Decimals:  9
+
+Signature: g4gc4ZNDVPvvhrwCpQ17AKBp1XSkwatsquD7pJvuTe4WH23rEGjLqC8NZ5mSGmVcd2PxyPzHoowuWXNgwuuzhSM
+

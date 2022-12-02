@@ -1,0 +1,7 @@
+Creating token Buzy54xCuLgNei1PR749XMjdY19bzKAtTswQ7NWf5YtK
+
+Address:  Buzy54xCuLgNei1PR749XMjdY19bzKAtTswQ7NWf5YtK
+Decimals:  0
+
+Signature: 2o8utHpQFb99QDqoea1xg4is5T92ddNP8PMqMxcp87AUBfCjFcQAb4iDRExcHAbC94qoJsqPZWYeE8vyCBLsEo7g
+
